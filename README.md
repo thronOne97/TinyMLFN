@@ -1,2 +1,2 @@
 # TinyMLFN
-Fundamentals: Tiny ML Notebooks
+Fundamentals: Tiny ML (Notebooks)
